@@ -1,12 +1,38 @@
-# React + Vite
+# 🧑‍💻 Rishabh Panwar – 3D Interactive Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A creative, immersive portfolio built using modern 3D and frontend technologies to showcase my profile, skills, and featured projects. This site reflects both technical depth and visual storytelling.
 
-Currently, two official plugins are available:
+🌐 **Live Site**: [https://portfolio-rishabh-17.vercel.app](https://portfolio-rishabh-17.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Three.js** + **React Three Fiber** – 3D models and animations
+- **React.js** – Interactive user interface
+- **Vite** – Lightning-fast frontend tooling
+- **Framer Motion** – Page transitions and motion effects
+- **Tailwind CSS** – Utility-first responsive styling
+- **Vercel** – Continuous deployment and hosting
+
+---
+
+## 🎯 Key Features
+
+- 🧑‍🚀 **Animated 3D hero scene** with immersive lighting and motion
+- 🧠 **About section** with a floating tech stack carousel
+- 💼 **Projects section** featuring live links and GitHub buttons
+- 🎮 Interactive 3D elements and hover effects
+- 📱 Fully responsive on all devices
+- 🌐 Fast performance via Vite bundling and lazy-loading
+- 📬 Footer with GitHub, LinkedIn, and Email contact links
+
+---
+
+## 📸 Preview
+
+![Screenshot](./public/preview.png) <!-- Replace with your actual screenshot path -->
+
+---
+
+
